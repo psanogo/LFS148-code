@@ -61,7 +61,13 @@ This repository represents my first steps into that culture.
 **Papa Moussa Sanogo**  
 Prospective software engineer with an interest in open source,
 cloud-native development, and learning how real systems work.
+## How to Use This Repository
 
+To explore the exercises locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/psanogo/LFS148-code.git
 ---
 
 ## License
